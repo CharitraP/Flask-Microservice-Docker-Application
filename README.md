@@ -8,4 +8,4 @@
 5. To downlad the image of the application execute the docker pull command.
 6. To run the Container using docker run command.
 7. To check the logs of the container use docker logs command.
-# CharitraP
+
