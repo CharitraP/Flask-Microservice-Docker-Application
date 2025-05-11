@@ -9,3 +9,4 @@
 6. To run the Container using docker run command.
 7. To check the logs of the container use docker logs command.
 
+#8. To see the Difference
